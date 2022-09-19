@@ -16,13 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ### Connect with me
----
 
 <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" href="https://linkedin.com/in/yesha-krishna-v" />
 
 
 ### **Quote I live by**
----
-
->###   “I’m working on myself, for myself, by myself.”   
->###       &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;– Harvey Specter 
+>####   “I’m working on myself, for myself, by myself.”   
+>####       &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;– Harvey Specter 
