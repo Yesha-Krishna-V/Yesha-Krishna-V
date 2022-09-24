@@ -1,4 +1,4 @@
-![banner]()
+![banner](https://github.com/Yesha-Krishna-V/Yesha-Krishna-V/blob/main/images/Github%20Banner.gif)
 <h1 align="center" style="font-weight:bold"> Vanakam 🙏 I'm Yesha Krishna V </h1>
 <h3 align="center">Software Engineer from India</h3>
 
@@ -11,12 +11,8 @@
 
 <br />
 
-<<<<<<< HEAD
-<h3 align="left"> Languages, Frameworks and Tools: </h3>
-=======
-### Connect with me
->>>>>>> cb06e82e260d160b4d1c2fcfd40d6d4580507e5e
 
+<h3 align="left"> Languages, Frameworks and Tools: </h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> &nbsp;
@@ -25,12 +21,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">  
 
 <br />
-
-<<<<<<< HEAD
-
-
-
-
 
 </p>
 
@@ -43,8 +33,3 @@
 – Harvey Specter 
 </h4>
 
-=======
-### **Quote I live by**
->####   “I’m working on myself, for myself, by myself.”   
->####       &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;– Harvey Specter 
->>>>>>> cb06e82e260d160b4d1c2fcfd40d6d4580507e5e
