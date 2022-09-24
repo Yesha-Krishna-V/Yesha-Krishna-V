@@ -11,7 +11,11 @@
 
 <br />
 
+<<<<<<< HEAD
 <h3 align="left"> Languages, Frameworks and Tools: </h3>
+=======
+### Connect with me
+>>>>>>> cb06e82e260d160b4d1c2fcfd40d6d4580507e5e
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> &nbsp;
@@ -22,6 +26,7 @@
 
 <br />
 
+<<<<<<< HEAD
 
 
 
@@ -38,3 +43,8 @@
 – Harvey Specter 
 </h4>
 
+=======
+### **Quote I live by**
+>####   “I’m working on myself, for myself, by myself.”   
+>####       &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;– Harvey Specter 
+>>>>>>> cb06e82e260d160b4d1c2fcfd40d6d4580507e5e
