@@ -2,6 +2,9 @@
 <h1 align="center" style="font-weight:bold"> Vanakam 🙏 I'm Yesha Krishna V </h1>
 <h3 align="center">Software Engineer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/15/22/dd/1522ddece6c1e3ab7ee15871255d3ec8.gif">
+
+
 <h3 align="left"> Connect with me: </h3>
 <p align="left">
 <a href="https://twitter.com/yeshakrish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yeshakrish" height="30" width="40" /></a>
