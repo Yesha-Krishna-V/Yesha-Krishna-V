@@ -1,11 +1,11 @@
 ![banner](https://github.com/Yesha-Krishna-V/Yesha-Krishna-V/blob/main/images/Github%20Banner.gif)
-<h1 align="center" style="font-weight:bold"> Vanakam 🙏 I'm Yesha Krishna V </h1>
-<h3 align="center">Software Engineer from India</h3>
+<h1 align="center"> Vandanam 👋 I'm Yesha Krishna V </h1>
+<h3 align="center">A Computer Science Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/15/22/dd/1522ddece6c1e3ab7ee15871255d3ec8.gif">
 
 👨‍💻 Currently working on my Portfolio Website  
-📖 Currently learning MERN Stack and DSA
+📖 Currently learning <a href="https://www.geeksforgeeks.org/mern-stack/" style="text-decoration=none;"> MERN Stack </a> and Data Structures \& Algorithms
 
 <h3 align="left"> Connect with me: </h3>
 <p align="left">
