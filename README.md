@@ -34,7 +34,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  
 
 </p>
-<<<<<<< HEAD
-
-=======
->>>>>>> e1d8954d92bd8bf21cb6a711f132536d4204a6e8
