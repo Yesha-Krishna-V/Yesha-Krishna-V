@@ -1,4 +1,4 @@
-![banner](https://github.com/Yesha-Krishna-V/Yesha-Krishna-V/blob/main/images/Github%20Banner.gif)
+![banner](https://github.com/Yesha-Krishna-V/Yesha-Krishna-V/blob/main/images/Github%20Banner.png)
 <h1 align="center"> Vandanam 👋 I'm Yesha Krishna V </h1>
 <h3 align="center">A Computer Science Engineer from India 🇮🇳 </h3>
 
