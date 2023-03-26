@@ -13,8 +13,8 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/15/22/dd/1522ddece6c1e3ab7ee15871255d3ec8.gif">
 
-👨‍💻 Currently working on my Portfolio Website  
-📖 Currently learning <a href="https://www.coremern.com/what-is-mern-stack/" style="text-decoration:none;"> MERN Stack </a> and Data Structures \& Algorithms
+<!-- 👨‍💻 Currently working on my Portfolio Website   -->
+<!-- 📖 Currently learning <a href="https://www.coremern.com/what-is-mern-stack/" style="text-decoration:none;"> MERN Stack </a> and Data Structures \& Algorithms -->
 
 <h3 align="left"> Connect with me: </h3>
 <p align="left">
