@@ -4,8 +4,8 @@
 
 <blockquote>
   <h4 align="center" style="font-weight:bold;color:orange">
-    <q> I'm working on myself, for myself, by myself. </q> <br>	<br>
-	– Harvey Specter 
+    <q> The two most important days in your life are the day you were born and the day you find out why. </q> <br>	<br>
+	– Mark Twain 
   </h4>
 </blockquote>
 
